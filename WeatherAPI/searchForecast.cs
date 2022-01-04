@@ -13,5 +13,10 @@ namespace WeatherAPI
         {
             throw new NotImplementedException();
         }
+
+        internal static object GetMonthlyForecast()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
